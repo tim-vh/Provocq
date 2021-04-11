@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>Tim van Heumen</Authors>
+    <Company />
+    <Product />
+  </PropertyGroup>
+
+</Project>
